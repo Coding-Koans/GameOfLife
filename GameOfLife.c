@@ -31,7 +31,7 @@ int main()
 	generation++;
 	processGeneration(ROWS, COLS, grid);
 	printGrid(ROWS, COLS, grid);
-	sleep(1000000);
+	sleep(33333);
     }
     return 0;
 }
