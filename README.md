@@ -1,6 +1,12 @@
 # GameOfLife
 A CLI version of Conway's Game of Life
 
+## How to Compile and run:
+`gcc GameOfLife.c`
+`./a.out`
+
+## Context
+
 This is another study in programming, primarily in getting better aquainted
 with modular programming paradigms as a precursor to OOP.
 
